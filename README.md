@@ -21,3 +21,10 @@
         <li>Criação de API com NodeJs</li>
     </ul>
 </p>
+
+<h2>Para executar o proejto</h2>
+
+            npm run dev
+   
+ 
+        
