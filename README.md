@@ -1,15 +1,16 @@
-# todo-list-app
-<h1>
-    <PageHeader name='About' small='this Project'></PageHeader>
-</h1>
-<h2>Descrição</h2>
-<p>
-    O projeto foi desenvolvido com base no conteúdo ministrado pelo professor Leonardo Moura Leitao da Cod3R Cursos.
+<h1 align="center"> Lista de Tarefas (React) </h1>
+
+# Descrição do projeto :star:
+
+<p align="justify">O projeto consiste em uma aplicação Todo List que permite adicionar, filtrar, alterar e deletar uma tarefa.</p>
+
+![Badge](https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT)
+
+<p>O projeto foi desenvolvido com base no conteúdo ministrado pelo professor Leonardo Moura Leitao da Cod3R Cursos.</p>
 
     O intuito do projeto consiste fixar conteúdo aprendido ao longo do curso.
-</p>
-
-<h2>Recursos utilizados no Projeto</h2>
+    
+<h2>Recursos aprendidos e utilizados no Projeto</h2>
 <p>
     <ul type="squad">
         <li>Configuração da aplicação com Webpack</li>
@@ -21,6 +22,11 @@
         <li>Criação de API com NodeJs</li>
     </ul>
 </p>
+
+<h2>Recursos a serem adicionados</h2>
+- [] Redux-Saga
+- [] Styled-Components
+
 
 <h2>Para executar o proejto</h2>
 
