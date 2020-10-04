@@ -1,10 +1,11 @@
-<h1 align="center"> Lista de Tarefas (React) </h1>
-
 ![Badge](https://img.shields.io/github/issues/carolqueirozp/todo-list-app?style=for-the-badge)
 ![Badge](https://img.shields.io/github/forks/carolqueirozp/todo-list-app?style=for-the-badge)
 ![Badge](https://img.shields.io/github/stars/carolqueirozp/todo-list-app?style=for-the-badge)
 ![Badge](https://img.shields.io/github/last-commit/carolqueirozp/todo-list-app?style=for-the-badge)
 
+<br>
+
+<h1 align="center"> Lista de Tarefas (React) </h1>
 
 <p align="center">
     <b>Status do Projeto:</b> Em desenvolvimento :warning:
