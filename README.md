@@ -52,7 +52,7 @@
 
 No terminal, clone o projeto:
 
-        git clone https://github.com/carolqueirozp/todo-list-app/
+        git clone https://github.com/carolqueirozp/todo-list-app.git
         
 Entre na pasta do projeto:
 
