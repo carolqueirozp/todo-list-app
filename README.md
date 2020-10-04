@@ -25,6 +25,13 @@
 
 :trophy: Buscar tarefas por descrição completa ou alguma palavra contida na descrição
 
+## 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [MongoDB](https://www.mongodb.com/)
 
 ## Recursos aprendidos e utilizados no projeto :dart:
 
@@ -79,6 +86,16 @@ Execute a aplicação:
 Pronto, agora é possível acessar a aplicação a partir da rota: http://localhost:8080/
 
 
-   
+### Autor
+---
+
+ <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/62680395?s=460&amp;u=c21e3118af9daf2019163dd00004760a3a3f9f00&amp;v=4"  width="100px;" alt="">
+ <br />
+ <p><b>Ana Papa</b>🚀</p>
+
+Feito com ❤️ por Ana Papa 👋🏽 Entre em contato!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anaqueirozpapa//)](https://www.linkedin.com/in/tgmarinho/) 
+[![Gmail Badge](https://img.shields.io/badge/-anapapa.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anapapa.dev@gmail.com)](mailto:anapapa.dev@gmail.com)
  
         
